@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b12ea91351e797e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "75113ebfbb23964a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "769175310e69adcd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "403313b6cf343c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dee871e3a312701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1bf817afa833753",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1fa1ea1bb441fdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#topología",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e419a71e66d4261",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05892576f71fc1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcca87cc33252297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ddc5ffb56edbfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ef56941cbd8e83d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcce53f8892e6281",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5f18fa6f7d3792d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "769175310e69adcd",
+  "lastOpenFiles": [
+    "Libros desarrollo personal.md",
+    "Cosas que quiero comprar.md",
+    "1716491727-mtrica.md",
+    "1716491727-espacio-t1.md",
+    "1726816347-bani.md",
+    "1726490197-ejercicio-7-tema-1-anlisis-matemtico-3.md~",
+    "1726482377-grupo.md",
+    "1726487666-ejercicio-3-tema-1-anlisis-matemtico-3.md",
+    "1726479456-tres-en-ralla.md~",
+    "1725036889-como-jugar-tracer.md",
+    "1726294144-coordenadas-cartesianas.md",
+    "1726226089-problema-2-tema-1-optimizacin.md~",
+    "1726219941-primer-problema-de-optimizacin.md~",
+    "1716564616-teora-examen-final-clculo-numrico.md",
+    "templates/1724088084-nombre.md",
+    "20-08-24.md",
+    "1716491727-service-level-agreement-sla.md",
+    "1710093492-distancia-entre-un-punto-y-un-plano.md",
+    "1706782930-grafo.md",
+    "1706783756-pseudografo.md",
+    "Untitled.md",
+    "Untitled 12.md",
+    "1724078762-Untitled 1.md",
+    "1724078673-Untitled 1.md",
+    "hola.md",
+    "1724078931-nombre.md",
+    "1706784093-ejercicio-2-grafos.md",
+    "1706786259-ejercicio-5-grafos.md",
+    "templates",
+    "202408191614.md",
+    "Untitled Folder",
+    "1716491727-ejercicio-2-compactividad.md",
+    "1715075555-mtodo-de-la-secante.md~",
+    "1715073673-mtodo-de-la-biseccin.md~",
+    "1716663320-mtodo-del-desarrollo-de-taylor.md~",
+    "1713865555-reglas-de-cuadratura.md~",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Pasted image 20231015170547.png",
+    "Untitled 5.canvas",
+    "Pasted image 20240131130105.png",
+    "Untitled 3.canvas",
+    "Untitled 6.canvas",
+    "Pasted image 20240118122445.png",
+    "Pasted image 20240124185628.png",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
+    "Untitled 4.canvas",
+    "Pasted image 20240124191249.png",
+    "Untitled.canvas",
+    "Pasted image 20240118122759.png"
+  ]
+}
