@@ -4,7 +4,7 @@ Apuntes de las asignaturas de MAIS en [obsidian](https://obsidian.md/)
 
 ## Tutorial
 
-| Atajo | Acciñon |
+| Atajo | Acción |
 |--|--|
 | `ctrl+o` | Buscar archivo |
 | `ctrl+g` | Abrir grafo |
