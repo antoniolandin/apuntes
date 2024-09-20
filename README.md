@@ -8,7 +8,7 @@ Apuntes de las asignaturas de MAIS en [obsidian](https://obsidian.md/)
 |--|--|
 | `ctrl+o` | Buscar archivo |
 | `ctrl+g` | Abrir grafo |
-| `:ctrl+,` | Abrir menú de opciones |
+| `ctrl+,` | Abrir menú de opciones |
 | `ctrl+p` | Ejecutar comando |
 | `ctrl+supr` | Eliminar archivo |
 
