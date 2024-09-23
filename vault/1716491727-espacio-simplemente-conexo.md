@@ -1,9 +1,9 @@
 ---
 id: 1716491727-espacio-simplemente-conexo
 aliases:
- - Espacio simplemente conexo
+  - Espacio simplemente conexo
+tags:
+  - topología
 ---
 
-#topología 
-
-Un espacio es simplemente conexo si es [[1716491727-espacio-conexo-por-caminos|conexo por caminos]] y su [[1716491727-grupo-fundamental|Grupo fundamental]] es trivial
+Un espacio es simplemente conexo si es [[1716491727-espacio-conexo-por-caminos|conexo por caminos]] y su [[1716491727-grupo-fundamental|grupo fundamental]] es trivial

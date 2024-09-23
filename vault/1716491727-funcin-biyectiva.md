@@ -4,6 +4,7 @@ aliases:
   - Función Biyectiva
   - Biyección
   - Biyectiva
+  - Biyectivo
 tags:
   - topología
 ---

@@ -11,8 +11,13 @@
             "id": "769175310e69adcd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1727011068-grupos-de-2-elementos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1727011068-grupos-de-2-elementos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1727011068-grupos-de-2-elementos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1727011068-grupos-de-2-elementos.md"
+              }
             }
           }
         ],
@@ -139,13 +148,15 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "769175310e69adcd",
   "lastOpenFiles": [
+    "1726565444-demostrar-que-el-nico-grupo-de-tres-elementos-es-z3.md",
+    "1726481994-el-mundo-de-5-columnas.md",
+    "1727011068-grupos-de-2-elementos.md",
+    "1726816347-bani.md~",
     "Libros desarrollo personal.md",
     "Cosas que quiero comprar.md",
     "1716491727-mtrica.md",
@@ -173,15 +184,11 @@
     "hola.md",
     "1724078931-nombre.md",
     "1706784093-ejercicio-2-grafos.md",
-    "1706786259-ejercicio-5-grafos.md",
     "templates",
-    "202408191614.md",
     "Untitled Folder",
-    "1716491727-ejercicio-2-compactividad.md",
     "1715075555-mtodo-de-la-secante.md~",
     "1715073673-mtodo-de-la-biseccin.md~",
     "1716663320-mtodo-del-desarrollo-de-taylor.md~",
-    "1713865555-reglas-de-cuadratura.md~",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Pasted image 20231015170547.png",
